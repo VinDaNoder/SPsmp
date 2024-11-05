@@ -66,3 +66,11 @@ java.lang.IllegalArgumentException: Server icon must be exactly 64x64 pixels
 [20:14:52] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58582]: Logged in as 'PAK_VIN25'
 [20:14:52] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58582|PAK_VIN25] -> UpstreamBridge has connected
 [20:14:52] [Netty Worker IO Thread #3/INFO]: [PAK_VIN25|/[0:0:0:0:0:0:0:1%0]:58582] <-> ServerConnector [lobby] has connected
+[21:16:23] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58582|PAK_VIN25] -> UpstreamBridge has disconnected
+[21:16:23] [Netty Worker IO Thread #3/INFO]: [PAK_VIN25] disconnected with: Proxy lost connection to server.
+[21:16:23] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58582|PAK_VIN25] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:16:26] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48158]: Connected via websocket
+[21:16:26] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48158]: Origin header is null
+[21:16:26] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48158]: Logged in as 'PAK_VIN25'
+[21:16:26] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:48158|PAK_VIN25] -> UpstreamBridge has connected
+[21:16:26] [Netty Worker IO Thread #1/INFO]: [PAK_VIN25|/[0:0:0:0:0:0:0:1%0]:48158] <-> ServerConnector [lobby] has connected

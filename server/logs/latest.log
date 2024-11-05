@@ -223,3 +223,25 @@
 [20:15:57] [Server thread/INFO]: PAK_VIN25 issued server command: /time set day
 [20:16:08] [Server thread/INFO]: DA_KING issued server command: /help
 [20:22:07] [Server thread/INFO]: DA_KING has just earned the achievement [Taking Inventory]
+[20:24:21] [Server thread/INFO]: DA_KING has just earned the achievement [Getting Wood]
+[20:46:38] [Server thread/INFO]: DA_KING was blown up by Creeper
+[20:46:48] [Server thread/INFO]: DA_KING issued server command: /back
+[20:50:38] [Server thread/INFO]: DA_KING hit the ground too hard
+[20:50:46] [Server thread/INFO]: DA_KING issued server command: /back
+[21:00:30] [Server thread/INFO]: DA_KING issued server command: /tp pa
+[21:04:44] [Server thread/INFO]: DA_KING was shot by Skeleton
+[21:04:51] [Server thread/INFO]: DA_KING issued server command: /back
+[21:16:23] [Server thread/INFO]: PAK_VIN25 lost connection: Disconnected
+[21:16:23] [Server thread/INFO]: PAK_VIN25 left the game.
+[21:16:26] [Thread-11/INFO]: UUID of player PAK_VIN25 is 0a89b7cf-47a9-3a44-bb29-5c9fce514888
+[21:16:26] [Server thread/INFO]: PAK_VIN25[/[0:0:0:0:0:0:0:1]:35036] logged in with entity id 15807 at ([world]144.2741843479567, 64.0, 135.9105935040728)
+[21:17:18] [Server thread/INFO]: DA_KING has just earned the achievement [Benchmarking]
+[21:17:26] [Server thread/INFO]: DA_KING has just earned the achievement [Time to Mine!]
+[21:17:26] [Server thread/INFO]: DA_KING has just earned the achievement [Getting an Upgrade]
+[21:29:47] [Server thread/INFO]: PAK_VIN25 was slain by Zombie
+[21:29:52] [Server thread/INFO]: PAK_VIN25 issued server command: /back
+[21:30:17] [Server thread/INFO]: DA_KING was shot by Skeleton
+[21:30:23] [Server thread/INFO]: DA_KING issued server command: /back
+[21:32:52] [Server thread/INFO]: PAK_VIN25 has just earned the achievement [Benchmarking]
+[21:35:01] [Server thread/INFO]: PAK_VIN25 hit the ground too hard
+[21:35:06] [Server thread/INFO]: PAK_VIN25 issued server command: /back
